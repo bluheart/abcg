@@ -11,4 +11,4 @@ space muda para um cor aleatória<br>
 Desktop - compila sem erros e funciona<br>
 ❗ Web - compila sem erros mas não funciona
 
-link para a página - https://bluheart.github.io/abcg/atividade1_web/ (
+link para a página - https://bluheart.github.io/abcg/atividade1_web/
