@@ -1,4 +1,8 @@
 #add_subdirectory(helloworld)
 #add_subdirectory(asteroids)
-add_subdirectory(atividade1)
-
+#add_subdirectory(atividade1)
+#add_subdirectory(loadmodel)
+#add_subdirectory(lookat)
+#add_subdirectory(viewer1)
+#add_subdirectory(starfield)
+add_subdirectory(atividade2)
